@@ -2,7 +2,7 @@
 
 In this module task you will continue working on the restaurant website to make it compatible for different browser widths.
 
-
+waxaan upadate ku sameey fatuma resturant waaxana ka dhigay mid responsive ah oo taleefonka laga fiirin karo
 ## Responsive Design
 
 ## Objectives
